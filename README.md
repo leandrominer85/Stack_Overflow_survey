@@ -1,5 +1,6 @@
 # Project: Write a Data Science Blog Post (Stack Overflow 2020 Survey)
 
+
 ## This project is part of the UDACITY Nanodegree Data Science Course. 
 
 ## Business Understanding
@@ -90,3 +91,7 @@ Matplotlib
 Warnings
 
 Numpy
+
+## Link for Medium post
+
+https://epp-minervino.medium.com/developed-vs-underdeveloped-countries-the-difference-in-the-coders-life-4579e5ec7bfb
